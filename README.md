@@ -1,2 +1,1 @@
-# Raycast
-2.5D (raycasting) test game in C with csfml.
+To play launch out.exe in the bin folder.
