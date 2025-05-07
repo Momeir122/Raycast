@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "raycast.h": "c",
+        "types.h": "c",
+        "renderer.h": "c",
+        "player.h": "c"
+    }
+}
